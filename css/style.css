@@ -209,18 +209,20 @@
     font-family: "BPG Glaho Arial", sans-serif;
   }
   
-  .right-div {
+  .registration {
     display: flex;
-    margin-bottom: 70px;
     justify-content: flex-end;
+    margin-top: -280px;
+    margin-left: 800px;
   }
   
-  .right-div input {
+  .registration input {
     width: 463px;
     height: 60px;
     border: transparent;
     background-color: #0a22f4;
     font-size: 16px;
+    border-bottom: 1px solid white;
     font-family: "BPG Glaho Arial", sans-serif;
   }
   
@@ -287,7 +289,7 @@
     font-family: "BPG Glaho Arial", sans-serif;
   }
   
-  .guli {
+  .heart {
     width: 26px;
     height: 26px;
   }
